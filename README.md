@@ -1,10 +1,10 @@
 <!-- Title -->
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Sohum Goel! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sohumgoel/ 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-brightgreen)](https://yourportfolio.com) -->
 
 <!-- Introduction -->
-I'm a passionate Computer Science student at the University of California, Davis, with a desire to create innovative solutions through technology. My journey in the world of tech has equipped me with a versatile set of skills and experiences.
+I'm a Computer Science student at the University of California, Davis, with a desire to create innovative solutions through technology. My journey in the world of tech has equipped me with a versatile set of skills and experiences.
 
 <!-- About Me -->
 - 🔬 Majoring in Computer Science with a GPA of 3.91
