@@ -38,6 +38,8 @@ Let's connect and collaborate:
 
 <!-- Interests -->
 ## Interests
+- 🧠 Active member of the AI Student Collective (Student Org)
+    - Pursue AI/ML in a professional setting, develop cross-platform projects, and network with Fortune 500 industry leaders.
 In my free time, I enjoy:
 - ⛳ Golf (handicap of 20)
 - 🧗‍♂️ Rock climbing
