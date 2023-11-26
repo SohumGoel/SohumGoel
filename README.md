@@ -17,7 +17,7 @@ I'm a Computer Science student at the University of California, Davis, with a de
 ## My Work
 Here are some of my noteworthy projects:
 
-- 😄 **Emotion Detection**: Collaborated on building image classification models to identify human facial expressions. [Link]((https://github.com/grishaab/EmotionDetectorCNN))]
+- 😄 **Emotion Detection**: Collaborated on building image classification models to identify human facial expressions. [Link]((https://github.com/grishaab/EmotionDetectorCNN))
 - 🖥 **Command Line Shell**: Developed a Linux shell with dynamic commands, error management, and advanced features.
 - 🎮 **TikTok Web Game**: Created a web game for 100+ players with video uploads and ranking algorithms. [Link]()
 
