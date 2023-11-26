@@ -1,5 +1,5 @@
 <!-- Title -->
-# Hi there, I'm Sohum Goel! 👋
+# Hi there, I'm Sohum Goel!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sohumgoel/)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-brightgreen)](https://yourportfolio.com) -->
 
@@ -7,10 +7,9 @@
 I'm a Computer Science student at the University of California, Davis, with a desire to create innovative solutions through technology. My journey in the world of tech has equipped me with a versatile set of skills and experiences.
 
 <!-- About Me -->
-- 🔬 Majoring in Computer Science with a GPA of 3.91
+- 🔬 Majoring in Computer Science, GPA: 3.91
 - 💻 Full Stack Developer and Machine Learning enthusiast
 - 🛠️ Proficient in Python, C++, JavaScript, and more
-- 📊 Data Science and Neural Networks aficionado
 - 🚀 Always looking for new challenges to solve
 
 <!-- My Work -->
