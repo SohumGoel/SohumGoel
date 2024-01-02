@@ -15,7 +15,7 @@ I'm a Computer Science student at the University of California, Davis, with a de
 <!-- My Work -->
 ## My Work
 Here are some of my noteworthy projects:
-- 📊 **Breast Cancer Prediction**: Implemented 10 machine learning models, including Logistic Regression, SVM, Random Forest, and more, for breast cancer classification. Evaluated model performance with accuracy, AUC, and more. Achieved an AUC of >0.97 in 9 out of 10 models,. [Link](https://github.com/SohumGoel/Predicting-Breast-Cancer-10Models)
+- 📊 **Breast Cancer Prediction**: Implemented 10 machine learning models, including Logistic Regression, SVM, Random Forest, and more, for breast cancer classification. Evaluated model performance and achieved an AUC of >0.97 in 9 out of the 10 models. [Link](https://github.com/SohumGoel/Predicting-Breast-Cancer-10Models)
 - 😄 **Emotion Detection**: Collaborated on building image classification models to identify human facial expressions. [Link](https://github.com/grishaab/EmotionDetectorCNN)
 - 🖥 **Command Line Shell**: Developed a Linux shell with dynamic commands, error management, and advanced features.
 - 🎮 **TikTok Web Game**: Created a web game for 100+ players with video uploads and ranking algorithms. [Link]()
