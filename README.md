@@ -42,7 +42,7 @@ Let's connect and collaborate:
  
 
 In my free time, I enjoy:
-- ⛳ Golf (handicap of 20)
+- ⛳ Golf (hole in one in 2015. Handicap of 20)
 - 🧗‍♂️ Rock climbing
 - ✈️ Traveling and exploring new places
 - 🏊 Swimming
