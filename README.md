@@ -7,7 +7,7 @@
 I'm a Computer Science student at the University of California, Davis, with a desire to create innovative solutions through technology. My journey in the world of tech has equipped me with a versatile set of skills and experiences.
 
 <!-- About Me -->
-- 🔬 Computer Science, GPA: 3.9
+- 🔬 Computer Science, GPA: 3.8
 - 💻 Full Stack Developer and Machine Learning enthusiast
 - 🛠️ Proficient in Python, C++, JavaScript, and more
 - 🚀 Always looking for new challenges to solve
