@@ -8,8 +8,8 @@ I'm a Computer Science student at the University of California, Davis, with a de
 
 <!-- About Me -->
 - 🔬 Computer Science, GPA: 3.8
-- 💻 Full Stack Developer and Machine Learning enthusiast
-- 🛠️ Proficient in Python, C++, JavaScript, and more
+- 💻 Full Stack Developer and ML/AI enthusiast
+- 🛠️ Proficient in Python, C/C++, JavaScript, and more
 - 🚀 Always looking for new challenges to solve
 
 <!-- My Work -->
