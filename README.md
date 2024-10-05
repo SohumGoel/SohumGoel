@@ -1,5 +1,5 @@
 <!-- Title -->
-# I'm Sohum Goel!
+# Hi, I'm Sohum Goel!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sohumgoel/)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-brightgreen)](https://yourportfolio.com) -->
 
