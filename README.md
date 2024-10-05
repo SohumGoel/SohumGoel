@@ -22,9 +22,9 @@ Here are some of my noteworthy projects:
 
 <!-- Skills -->
 ## Skills
-- Programming Languages: Python, C++, JavaScript, R, Java
+- Programming Languages: Python, C/C++, JavaScript, R, Java
 - Tools and Frameworks: Docker, Azure DevOps, React, Node.js, Git
-- Machine Learning: Neural Networks, Pandas, NumPy, TensorFlow
+- Machine Learning: Neural Networks, Pytorch, Pandas, TensorFlow
 - Databases: MySQL, SQLite
 
 <!-- Get in Touch 
@@ -37,14 +37,14 @@ Let's connect and collaborate:
 
 <!-- Interests -->
 ## Interests
-- 🧠 Active member of the AI Student Collective (Student Org)
+- 🧠 Member of the AI Student Collective (Student Org)
     - Pursue AI/ML in a professional setting, develop cross-platform projects, and network with Fortune 500 industry leaders.
  
 
 In my free time, I enjoy:
 - ⛳ Golf (hole in one in 2015. Handicap of 20)
 - 🧗‍♂️ Rock climbing
-- ✈️ Traveling and exploring new places
+- ✈️ Traveling
 - 🏊 Swimming
 
 Thanks for visiting my GitHub! I'm always open to new opportunities and exciting projects.
