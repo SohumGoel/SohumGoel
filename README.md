@@ -4,7 +4,7 @@
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-brightgreen)](https://yourportfolio.com) -->
 
 <!-- Introduction -->
-I'm a Computer Science student at the University of California, Davis, with a desire to create innovative solutions through technology. My journey in the world of tech has equipped me with a versatile set of skills and experiences.
+Recent Computer Science graduate from the University of California, Davis, with a desire to create innovative solutions through technology. My journey in the world of tech has equipped me with a versatile set of skills and experiences. Currently working full time as a Data Engineer, learning about and implementing various Gen AI tools in healtcare. 
 
 <!-- About Me -->
 - 🔬 Computer Science, GPA: 3.8
@@ -23,9 +23,9 @@ Here are some of my noteworthy projects:
 <!-- Skills -->
 ## Skills
 - Programming Languages: Python, C/C++, JavaScript, R, Java
-- Tools and Frameworks: Docker, Azure DevOps, React, Node.js, Git
-- Machine Learning: Neural Networks, Pytorch, Pandas, TensorFlow
-- Databases: MySQL, SQLite
+- Tools and Frameworks: Docker, LangChain, Azure DevOps, AWS Lambda, React, Node.js, Git
+- AI/ML: Neural Networks, LLMs, Pytorch, Pandas, TensorFlow
+- Databases: MongoDB, MySQL, SQLite
 
 <!-- Get in Touch 
 ## Get in Touch
@@ -39,10 +39,9 @@ Let's connect and collaborate:
 ## Interests
 - 🧠 Member of the AI Student Collective (Student Org)
     - Pursue AI/ML in a professional setting, develop cross-platform projects, and network with Fortune 500 industry leaders.
- 
 
 In my free time, I enjoy:
-- ⛳ Golf (hole in one in 2015. Handicap of 20)
+- ⛳ Golf (hole in one in 2015. Handicap - 20)
 - 🧗‍♂️ Rock climbing
 - ✈️ Traveling
 - 🏊 Swimming
