@@ -6,7 +6,7 @@
 <!-- Introduction -->
 Recent Computer Science graduate from the University of California, Davis, with a desire to create innovative solutions through technology. My journey in the world of tech has equipped me with a versatile set of skills and experiences. 
 
-Currently working full time as a Data Engineer, learning about and implementing various Gen AI tools in healtcare. 
+Currently working full time as a Data Engineer, learning about and implementing various Gen AI tools in healthcare. 
 
 <!-- About Me -->
 - 🔬 Computer Science, GPA: 3.8
