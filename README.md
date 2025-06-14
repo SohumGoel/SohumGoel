@@ -6,7 +6,7 @@
 <!-- Introduction -->
 Recent Computer Science graduate from the University of California, Davis, with a desire to create innovative solutions through technology. My journey in the world of tech has equipped me with a versatile set of skills and experiences. 
 
-Currently working full time as a Data Engineer, learning about and implementing various Gen AI tools in healthcare. 
+Recently worked as a Data Engineer, implementing various Gen AI tools in healthcare. 
 
 <!-- About Me -->
 - 🔬 Computer Science, GPA: 3.8
@@ -25,9 +25,9 @@ Here are some of my noteworthy projects:
 <!-- Skills -->
 ## Skills
 - Programming Languages: Python, C/C++, JavaScript, R, Java
-- Tools and Frameworks: Docker, LangChain, Azure DevOps, AWS Lambda, React, Node.js, Git
+- Tools and Frameworks: Docker, LangChain, Azure DevOps, React, Node.js
 - AI/ML: Neural Networks, LLMs, Pytorch, Pandas, TensorFlow
-- Databases: MongoDB, MySQL, SQLite
+- Databases: MongoDB, MySQL
 
 <!-- Get in Touch 
 ## Get in Touch
@@ -41,11 +41,12 @@ Let's connect and collaborate:
 ## Interests
 - 🧠 Member of the AI Student Collective (Student Org)
     - Pursue AI/ML in a professional setting, develop cross-platform projects, and network with Fortune 500 industry leaders.
-
+<!-- 
 In my free time, I enjoy:
 - ⛳ Golf (hole in one in 2015. Handicap - 20)
 - 🧗‍♂️ Rock climbing
 - ✈️ Traveling
 - 🏊 Swimming
+-->
 
-Thanks for visiting my GitHub! I'm always open to new opportunities and exciting projects.
+I'm always open to new opportunities and exciting projects.
